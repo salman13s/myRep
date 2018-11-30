@@ -1,2 +1,2 @@
 # myRep
-this here is my first gitHub program
+this here is my first gitHub repository 
