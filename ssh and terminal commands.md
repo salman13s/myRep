@@ -7,4 +7,6 @@ connect to specific server unsing ssh:
 and the server will request a password after that
 ### displaying the content of a file in terminal
 $cat filePath
+### copy a ssh id
+$ shh-cop-id keyName serverID // keyName and serverID are variables 
 
