@@ -1,4 +1,4 @@
-#generating keys:
+# generating keys:
 > ssh-keygen
 connect to specific server unsing ssh 
 > ssh key@192..168.1.29
