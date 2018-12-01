@@ -1,2 +1,3 @@
-# myRep
-this here is my first gitHub repository 
+### my first repository
+this here is my first gitHub repository
+changed something
